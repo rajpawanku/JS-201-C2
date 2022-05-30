@@ -1,0 +1,19 @@
+#bucket{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    gap: 40px;
+}
+/* #bucket > div{
+    /* border: 1px solid teal; 
+} */
+.img{
+    height: 200px;
+    width: 220px;
+    margin-left: 70px;
+}
+.center{
+    text-align: center;
+}
+#remove_coffee{
+margin-left: 38%;
+}
